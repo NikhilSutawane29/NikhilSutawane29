@@ -31,22 +31,22 @@ I'm a passionate developer from India who enjoys building modern web application
 
 ## 🛠️ Languages & Technologies
 
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js" alt="Languages"/>
+</p>
+
 ### Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,figma" alt="Frontend technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,figma" alt="Frontend technologies"/>
 </p>
 
 ### Backend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" alt="Backend technologies"/>
-</p>
-
-### AI & Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI and machine learning technologies"/>
 </p>
 
 ### Tools & DevOps
